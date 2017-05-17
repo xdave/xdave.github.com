@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Some Things</title>
-    <link>https://xdave.github.com/</link>
+    <link>./</link>
     <description>Recent content on Some Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 May 2017 20:10:10 -0600</lastBuildDate>
     
-	<atom:link href="https://xdave.github.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MixQueue</title>
-      <link>https://xdave.github.com/post/mixqueue/</link>
+      <link>./post/mixqueue/</link>
       <pubDate>Tue, 16 May 2017 20:10:10 -0600</pubDate>
       
-      <guid>https://xdave.github.com/post/mixqueue/</guid>
+      <guid>./post/mixqueue/</guid>
       <description>Here&amp;rsquo;s a thing I created that plays my mixes with a cuesheet track selection. Loads the mix and related metadata from archive.org.</description>
     </item>
     
